@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400&family=Poppins:wght@100&display=swap');
+
+html, body{
+height: 100%;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+header{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+header h1{
+    color:white;
+}
+
+body{
+    background-image: url(assets/bg2.jpg);
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    text-align: center;
+    font-size: 24px;
+}
+
+p{
+    padding: 10px;
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+h3{
+    color:white;
+}
+
+button{
+    background-color: white;
+    border-radius: 15%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+section{
+    margin-bottom: 10px;
+}
