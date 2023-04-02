@@ -3,6 +3,7 @@
 html, body{
 height: 100%;
 font-family: 'Edu NSW ACT Foundation', cursive;
+background-image: url(assets/bg2.jpg);
 }
 
 header{
@@ -16,7 +17,6 @@ header h1{
 }
 
 body{
-    background-image: url(assets/bg2.jpg);
 }
 
 main{
