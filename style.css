@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400&family=Poppins:wght@100&display=swap');
 
-html{
-background-image: url(assets/bg2.jpg);
-}
-
 html, body{
 height: 100%;
 font-family: 'Edu NSW ACT Foundation', cursive;
+background-image: url(assets/bg2.jpg);
 }
 
 header{
@@ -20,7 +17,7 @@ header h1{
 }
 
 body{
-    background-color: transparent;
+    
 }
 
 main{
@@ -57,4 +54,9 @@ a{
 
 section{
     margin-bottom: 10px;
+}
+
+p a{
+    color:white;
+    text-decoration: underline;
 }
